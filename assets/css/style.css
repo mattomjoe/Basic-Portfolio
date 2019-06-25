@@ -33,9 +33,10 @@ h2 {
 
 #MattJoseph {
     background-color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
     color: white;
     margin-top: 0;
-    padding: 20px;
+    padding: 10px;
     float: left;
 }
 
