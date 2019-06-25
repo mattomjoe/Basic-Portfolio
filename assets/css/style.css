@@ -24,6 +24,7 @@ h1 {
 h2 {
     font-family: 'Georgia', Times, Times New Roman, serif;
     color: #4aaaa5;
+    width: 100%;
 }
 
 #navigation {
