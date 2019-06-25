@@ -8,4 +8,14 @@ body {
 h1 {
     font-family: 'Georgia', Times, Times New Roman, serif;
     background-color: #4aaaa5;
+    text-align: center;
+    width: 30%;
+    color: white;
+    margin-top: 0;
+    padding: 20px;
+}
+
+h2 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #4aaaa5;
 }
