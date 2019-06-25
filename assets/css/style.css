@@ -40,7 +40,16 @@ h2 {
 
 #links {
     width: 70%;
+    float: right;
+}
+
+.about {
+    width: 100%;
+}
+
+#headshot {
     float: left;
+    margin: 20px;
 }
 
 footer {
