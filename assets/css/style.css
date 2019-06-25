@@ -43,6 +43,12 @@ h2 {
     float: right;
 }
 
+.clearfix::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
 .about {
     width: 100%;
 }
