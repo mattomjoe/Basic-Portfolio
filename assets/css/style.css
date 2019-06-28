@@ -65,8 +65,9 @@ header {
 h1 {
     font-family: 'Georgia', Times, Times New Roman, serif;
     background-color: #4aaaa5;
+    font-weight: bold;
     text-align: center;
-    width: 30%;
+    width: 200px;
     color: white;
     margin-top: 0;
     padding: 20px;
@@ -95,7 +96,7 @@ h2 {
 */
 
 .links {
-    width: 70%;
+    width: 760px;
     float: right;
 }
 
