@@ -58,6 +58,12 @@ body {
 
 /* CODE FOR HEADER BASED ON https://www.w3schools.com/css/tryit.asp?filename=trycss_navbar_horizontal_dividers */
 
+.fullspanheader {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #666666;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
