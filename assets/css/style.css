@@ -201,3 +201,8 @@ h2 {
   margin: 4px 2px;
   cursor: pointer;
 }
+
+.message {
+  height: 300px;
+  width: 300px;
+}
